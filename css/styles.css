@@ -18,8 +18,31 @@
 }
 
 h1 {
+  /*font-family: courier;*/
+  /*text-align: center;*/
+  /*font-size: 60px;*/
+  /*margin-top: 30px;*/
+}
+
+.hbar {
   font-family: courier;
   text-align: center;
-  font-size: 60px;
-  margin-top: 30px;
+  float: none;
+}
+
+.hbar h1 {
+  padding-top: 50px;
+}
+
+.hbar img {
+  width: 100%;
+}
+
+.hbar1 {
+  height: 200px;
+  background-color: #698c86;
+}
+
+.hbar2 {
+  background-color: #325a73;
 }
